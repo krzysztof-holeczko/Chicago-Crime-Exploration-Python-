@@ -1,5 +1,7 @@
-pandas
-urllib3
-csv
-defaultdict
-Counter
+
+import pandas as pd
+from urllib.request import urlretrieve
+import csv
+from collections import Counter
+from collections import defaultdict
+from datetime import datetime
